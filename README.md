@@ -4,7 +4,7 @@
 - :computer: I’m studying Computer Engineering at [UFES](http://www.ufes.br/).
 - 🔭 I’m currently working at [Adapti](https://www.adapti.info/) and [Yogg](https://www.yogg.com.br/).
 - 📡️ I’m always learning everything related to React and Node, and recently Docker.
-- 🤣 Fun fact: I see the screen of my laptop more than I see then sun light :bat:.
+- 🤣 Fun fact: I see the screen of my laptop more than I see the sun light :bat:.
 
 ### 📪️ Connect with me:
 
