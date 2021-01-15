@@ -1,6 +1,7 @@
 ### Hi there👋. I'm Diogenes Fiorezi!
 
 ## I'm a student and a developer.
+- 🔭 I’m currently working remotely at [Pipefy](https://www.pipefy.com/pt-br/)!
 - :computer: I’m studying Computer Engineering at [UFES](http://www.ufes.br/).
 - 📡️ I’m always learning everything related to React and Node, and recently Docker.
 - 🤣 Fun fact: I see my laptop's screen light more than I see the sunlight :bat:.
