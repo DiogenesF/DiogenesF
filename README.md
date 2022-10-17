@@ -46,7 +46,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogenesF&layout=compact&hide=java)](https://github.com/DiogenesF/github-readme-stats)
-
-<br />
-
-<img align="left" alt="Diogenes' Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogenesF&show_icons=true&hide_border=true" />
