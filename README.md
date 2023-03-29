@@ -1,10 +1,9 @@
 ### Hi there👋. I'm Diogenes Fiorezi!
 
-## I'm a student and a developer.
+## I'm a developer analyst.
 - 🔭 I’m currently working remotely at [Pipefy](https://www.pipefy.com/pt-br/)!
 - :computer: I’m a Computer Engineer.
-- 📡️ I’m always learning everything related to React and Node, and recently Docker.
-- 🤣 Fun fact: I see my laptop's screen light more than I see the sunlight :bat:.
+- 📡️ I’m always learning everything related to React and Node, and recently Docker and Kubernetes.
 
 ### 📪️ Connect with me:
 
