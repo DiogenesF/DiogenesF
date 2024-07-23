@@ -3,7 +3,7 @@
 ## I'm a developer analyst.
 - 🔭 I’m currently working remotely at [Pipefy](https://www.pipefy.com/pt-br/)!
 - :computer: I’m a Computer Engineer.
-- 📡️ I’m always learning everything related to React and Node, and recently Docker and Kubernetes.
+- 📡️ I’m always trying to learn everything related to React and its ecosystem, and also Docker and Kubernetes.
 
 ### 📪️ Connect with me:
 
@@ -31,6 +31,8 @@
 ### 📕 Interested in:
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+
 
 <br />
 
