@@ -1,6 +1,6 @@
 ### Hi there👋. I'm Diogenes Fiorezi!
 
-## I'm a developer analyst.
+## I'm a Frontend Software Engineer.
 - 🔭 I’m currently working remotely at [Pipefy](https://www.pipefy.com/pt-br/)!
 - :computer: I’m a Computer Engineer.
 - 📡️ I’m always trying to learn everything related to React and its ecosystem, and also Docker and Kubernetes.
